@@ -1,1 +1,4 @@
-git checkout -b update_script && git add . && git commit -m "Update script" && git push
+git checkout -b update_script
+git add .
+git commit -m "Update script"
+git push
